@@ -5,3 +5,4 @@ Functions may be declared in two different formats:
 This is the preferred and more used format.function
 
 does this look good
+I am adding a new line to the file
