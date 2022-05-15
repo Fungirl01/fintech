@@ -1,0 +1,7 @@
+The syntax for declaring a bash function is straightforward. 
+Functions may be declared in two different formats: 
+1. The first format starts with the function name, followed by parentheses. 
+
+This is the preferred and more used format.function
+
+does this look good
