@@ -4,7 +4,13 @@ Functions may be declared in two different formats:
 
 This is the preferred and more used format.function
 
-does this look good
-I am adding a new line to the file
+
+I am adding a new line to the filing
 
 Concatenation is the joining together of two strings . In the following program, the variable 'fullName', is created by joining the 'firstName' and 'lastName' values together with a space between the strings.
+
+The SUBSTRING function takes three parameters:
+
+an integer that indicates the starting point in the string
+an integer that indicates the end point within the string
+the string that the substring is to be taken from
