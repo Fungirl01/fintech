@@ -6,3 +6,5 @@ This is the preferred and more used format.function
 
 does this look good
 I am adding a new line to the file
+
+Concatenation is the joining together of two strings . In the following program, the variable 'fullName', is created by joining the 'firstName' and 'lastName' values together with a space between the strings.
