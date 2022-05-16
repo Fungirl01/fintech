@@ -3,7 +3,7 @@ Functions may be declared in two different formats:
 1. The first format starts with the function name, followed by parentheses. 
 
 This is the preferred and more used format.function
-
+we
 
 I am adding a new line to the filing
 
